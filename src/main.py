@@ -11,7 +11,7 @@ def main():
                 print('thanks')
                 break
             else:
-                print(model.text_generation(txt))
+                print(model.text_generation(txt))#test test
 
 if __name__ == '__main__':
     main()
